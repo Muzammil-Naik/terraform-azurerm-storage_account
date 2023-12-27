@@ -20,7 +20,7 @@ module "Resource_Group" {
     Storage_Account_AccessTier          = "Hot" 
     Resource_Group_Tags                 =  {   
                                         "Key1" = "Value1" 
-                                        "Key2" = "VAlue2" 
+                                        "Key2" = "Value2" 
                                             } 
     #Resource_Group_Tags are optional  
 } 
